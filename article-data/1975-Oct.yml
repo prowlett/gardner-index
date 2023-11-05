@@ -10,4 +10,7 @@ confirmed: "no"
 notes:
   - who: "Peter Rowlett"
     when: "2 September 2022"
-    note: "I have seen this article in Scientific American OCt 1975. I have checked the unallocated chapters and this article does not seen to match any of them, meaning I have likely incorrectly assigned it to a different chapter."
+    note: "I have seen this article in Scientific American Oct 1975. I have checked the unallocated chapters and this article does not seen to match any of them, meaning I have likely incorrectly assigned it to a different chapter."
+  - who: "Peter Rowlett"
+    when: "5 November 2023"
+    note: "I have assigned all but this one Mathematical Games column to a book chapter. I have 296 Mathematical Games columns and one other article assigned to 297 chapters. I have checked the contents pages and there are 310 book chapters in the 15 books. I have inspected this chapter in reference to the 13 chapters I have not assigned to an original article and there is no match. I conclude this Scientific American Mathematical Games article was not reprinted in one of the 15 books."
