@@ -1,0 +1,13 @@
+year: "2967"
+month: "Jan"
+article-title: "Can Time go Backward?"
+mathematical-games: "N"
+book-no: ""
+book-title: ""
+chapter-no: ""
+chapter-title: ""
+confirmed: "no"
+notes:
+  - who: "Peter Rowlett"
+    when: "5 November 2023"
+    note: "year is 2967 because otherwise my code confuses it with the Mathematical Games column in Jan 1967, which obviously I could fix but doesn't seem worth the effort."
